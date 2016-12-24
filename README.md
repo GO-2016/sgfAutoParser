@@ -1,6 +1,6 @@
 # sgfAutoParser
 
-This sgfAutoParser takes *.sgf files as input and generates several *.npz files. The contents of these *.npz files are 4096*7*19*19 numpy.array and 4096*361 numpy.array. There is also a demo for Deep Learning with the help of [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/).
+This sgfAutoParser takes *.sgf files as input and generates several *.npz files. The contents of these *.npz files are 4096x7x19x19 numpy.array and 4096x361 numpy.array. There is also a demo for Deep Learning with the help of [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/).
 
 ## Setup
 
