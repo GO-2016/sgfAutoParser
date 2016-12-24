@@ -6,9 +6,9 @@ This sgfAutoParser takes *.sgf files as input and generates several *.npz files.
 
 ### Clone
 
-'''
+```
 git clone {{Git address of this repository (you can find it by clicking the green "Clone or Download" button)}}
-'''
+```
 
 ### Install Keras and Tensorflow
 
